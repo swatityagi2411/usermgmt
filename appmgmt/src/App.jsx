@@ -24,7 +24,7 @@ function App() {
   }, []);
 
   return (
-    <div className="p-5">
+    <div className="p-5 bg-red-300">
       <h1 className="text-xl font-bold mb-4">User Management</h1>
       <input
         className="border p-2 mr-2"
